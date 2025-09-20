@@ -47,5 +47,5 @@ This is the **backend API** for the **Meet in the Middle** web application. It p
 
 
 ```bash
-git clone https://github.com/YourUsername/mtm-server.git
+git clone https://github.com/YourUsername/MeetInTheMiddle-Backend
 cd mtm-server
