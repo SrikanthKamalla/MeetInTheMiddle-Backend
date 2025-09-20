@@ -1,4 +1,4 @@
-# 🌍 Meet in the Middle (Backend)
+# Meet in the Middle (Backend)
 
 This is the **backend API** for the **Meet in the Middle** web application. It provides user authentication, midpoint calculation, real-time communication, file uploads, notifications, and integration with Google Maps and payment services.
 
@@ -47,5 +47,5 @@ This is the **backend API** for the **Meet in the Middle** web application. It p
 
 
 ```bash
-git clone https://github.com/YourUsername/MeetInTheMiddle-Backend
+git clone https://github.com/SrikanthKamalla/MeetInTheMiddle-Backend
 cd mtm-server
